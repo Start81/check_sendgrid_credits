@@ -13,7 +13,7 @@ sudo cpan  REST::Client Data::Dumper JSON File::Basename Readonly  Monitoring::P
 ```
 
 You need an API Key with user.credits.read right only
-To create this API key you must use an admin API key withe the following curl command : 
+To create this API key you must use an admin API key with the following curl command : 
 
 
 ```shell
