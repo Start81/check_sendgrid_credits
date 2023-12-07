@@ -20,10 +20,8 @@
 use strict;
 use warnings;
 use REST::Client;
-use warnings;
 use Data::Dumper;
 use JSON;
-use Getopt::Long;
 use Readonly;
 use File::Basename;
 use Monitoring::Plugin;
