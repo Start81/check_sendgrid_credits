@@ -4,7 +4,7 @@ Monitor sendgrid remaining credit
 
 ### prerequisites
 
-This script uses theses libs : REST::Client, Data::Dumper,JSON, Monitoring::Plugin, File::Basename, Readonly
+This script uses theses libs : REST::Client, Data::Dumper, JSON, Monitoring::Plugin, File::Basename, Readonly
 
 to install them type :
 
