@@ -7,7 +7,7 @@
 # Last Modified : 14/11/2023
 # Modified By   : JULEN DESAREST Start81 
 # Description   : check sendgrid remaining credit
-# Depends On    : REST::Client, Data::Dumper, DateTime, Json, Monitoring::Plugin, File::Basename, Readonly
+# Depends On    : REST::Client, Data::Dumper, Json, Monitoring::Plugin, File::Basename, Readonly
 #
 # Changelog:
 #    Legend:
