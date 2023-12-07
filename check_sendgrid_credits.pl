@@ -7,7 +7,7 @@
 # Last Modified : 14/11/2023
 # Modified By   : JULEN DESAREST Start81 
 # Description   : check sendgrid remaining credit
-# Depends On    : REST::Client,Data::Dumper,Getopt::Long
+# Depends On    : REST::Client, Data::Dumper, DateTime, Json, Monitoring::Plugin, File::Basename, Readonly
 #
 # Changelog:
 #    Legend:
@@ -15,7 +15,7 @@
 #
 # - 05/03/2021 | 1.0.0 | [*] initial realease
 # - 26/01/2023 | 1.0.1 | [*] Reviewing
-# - 14/11/2023 | 2.0.0 | [*] Reviewing
+# - 14/11/2023 | 2.0.0 | [*] implement Monitoring::Plugin lib
 #===============================================================================
 use strict;
 use warnings;
